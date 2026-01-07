@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\refint\HelloWorld.dll
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+C:\Users\USER\Desktop\LearningCSharp\DotNet5\Finished\Overview\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
