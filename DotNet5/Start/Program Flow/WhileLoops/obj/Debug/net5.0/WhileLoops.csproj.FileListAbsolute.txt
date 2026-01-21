@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.exe
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.deps.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.runtimeconfig.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.AssemblyInfo.cs
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.sourcelink.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\refint\WhileLoops.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.genruntimeconfig.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Program Flow\WhileLoops\obj\Debug\net5.0\ref\WhileLoops.dll
