@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.exe
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.deps.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\bin\Debug\net5.0\Formatting.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.AssemblyInfo.cs
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.sourcelink.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\refint\Formatting.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\Formatting.genruntimeconfig.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Strings\Formatting\obj\Debug\net5.0\ref\Formatting.dll
