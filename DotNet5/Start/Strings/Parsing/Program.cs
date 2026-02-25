@@ -15,13 +15,15 @@ namespace Parsing
             // The Parse function attempts to parse a string into a number
             // but it might throw an exception, so we need to catch that
             int targetNum;
-            try {
+            try
+            {
                 // TODO: Use Parse to try a simple integer
-
+                targetNum = int.Parse(numStr1);
+                Console.WriteLine(targetNum);
 
                 // TODO: Use Parse to try a floating point number
                 // This only works if the decimal value is 0
-
+                targetNum = int.Parse(numStr2, Num)
 
                 // TODO: Use Parse to try a number with thousands marker
 
@@ -35,15 +37,17 @@ namespace Parsing
                 // TODO: Or floating point numbers
 
             }
-            catch {
+            catch
+            {
                 Console.Write("Conversion failed");
             }
 
             // TODO: The TryParse function is similar but handles the exceptions for us
             bool succeeded = false;
 
-            if (succeeded) {
-                Console.WriteLine($"{targetNum}");
+            if (succeeded)
+            {
+                // Console.WriteLine($"{targetNum}");
             }
         }
     }
