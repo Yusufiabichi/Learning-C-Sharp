@@ -23,7 +23,7 @@ namespace Parsing
 
                 // TODO: Use Parse to try a floating point number
                 // This only works if the decimal value is 0
-                targetNum = int.Parse(numStr2, Num)
+                targetNum = int.Parse(numStr2, Num);
 
                 // TODO: Use Parse to try a number with thousands marker
 
