@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.exe
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.deps.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.runtimeconfig.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\bin\Debug\net5.0\RefAndOut.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.AssemblyInfo.cs
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.sourcelink.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\refint\RefAndOut.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\RefAndOut.genruntimeconfig.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\RefAndOutParams\obj\Debug\net5.0\ref\RefAndOut.dll
