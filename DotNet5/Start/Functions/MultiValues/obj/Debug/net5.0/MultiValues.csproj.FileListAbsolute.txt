@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.exe
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.deps.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.runtimeconfig.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\bin\Debug\net5.0\MultiValues.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.AssemblyInfo.cs
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.sourcelink.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\refint\MultiValues.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\MultiValues.genruntimeconfig.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Functions\MultiValues\obj\Debug\net5.0\ref\MultiValues.dll
