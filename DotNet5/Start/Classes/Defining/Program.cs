@@ -8,7 +8,6 @@ namespace Defining
         {
             // TODO: Create new object instances using the "new" operator
 
-            
             // TODO: Call a method on the object
 
 
