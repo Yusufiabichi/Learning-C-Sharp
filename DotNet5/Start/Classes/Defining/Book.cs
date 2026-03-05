@@ -13,10 +13,15 @@ namespace Defining
         // TODO: classes have one or more constructors
         public Book(string name, string author, int pages)
         {
-            _name
+            _name = name;
+            _author = author;
+            _pagecount = pages;
         }
 
         // TODO: methods are used to operate on the class and data
-
+        public string GetDescription()
+        {
+            return $"{_name} by {_author}";
+        }
     }
 }

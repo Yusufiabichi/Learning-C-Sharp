@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\bin\Debug\net5.0\Defining.exe
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\bin\Debug\net5.0\Defining.deps.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\bin\Debug\net5.0\Defining.runtimeconfig.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\bin\Debug\net5.0\Defining.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\bin\Debug\net5.0\Defining.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\bin\Debug\net5.0\Defining.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\Defining.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\Defining.AssemblyInfo.cs
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\Defining.sourcelink.json
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\Defining.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\refint\Defining.dll
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\Defining.pdb
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\Defining.genruntimeconfig.cache
+C:\Users\USER\Desktop\Yusufia\LearningCSharp\DotNet5\Start\Classes\Defining\obj\Debug\net5.0\ref\Defining.dll
