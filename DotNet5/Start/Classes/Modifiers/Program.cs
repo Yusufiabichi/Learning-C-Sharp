@@ -15,7 +15,10 @@ namespace Modifiers
             Console.WriteLine(b1.GetDescription());
 
             // TODO: set data using functions instead of accessing fields directly
-
+            b1.SetName("Graoes of Wrath");
+            b1.SetAuthor("Yusufia Bichi");
+            b1.SetPagecount(465);
+            Console.WriteLine(b1.GetDescription());
         }
     }
 }
