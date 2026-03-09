@@ -19,6 +19,11 @@ namespace Modifiers
             b1.SetAuthor("Yusufia Bichi");
             b1.SetPagecount(465);
             Console.WriteLine(b1.GetDescription());
+
+
+            string text1 = "This is my";
+            string text2 = "text!";
+            Console.WriteLine(text1 + " " + text2);
         }
     }
 }
