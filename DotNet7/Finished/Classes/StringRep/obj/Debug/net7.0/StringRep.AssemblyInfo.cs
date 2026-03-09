@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringRep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+196e613b7671ea41d6352e482adb08ae47ad76e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18b09c48367f0c5c8601aa11ffb10709b98420cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringRep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringRep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
