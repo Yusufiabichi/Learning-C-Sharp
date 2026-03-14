@@ -12,6 +12,7 @@ namespace Modifiers
         // TODO: "protected" members can only be accessed by the class or a 
         // derived class from this one
         protected string _author;
+        protected string _created;
 
         // TODO: "private" is the default and can only be accessed by code 
         // within the class itself
