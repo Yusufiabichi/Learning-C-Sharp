@@ -57,6 +57,13 @@ namespace Properties
 
         // TODO: Properties can be auto-generated - if there's no
         // backing field, the property can hold the data
-
+        public string ISBN
+        {
+            get; set;
+        }
+        public decimal Price
+        {
+            get; set;
+        }
     }
 }
