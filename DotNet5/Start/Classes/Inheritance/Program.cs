@@ -14,7 +14,7 @@ namespace Inheritance
             Console.WriteLine($"{m1.Name}, {m1.Publisher}");
 
             // Property validation logic will prevent an empty name
-            // b1.Name = "";
+            b1.Name = "";
 
             // Call the override functions
             Console.WriteLine(b1.GetDescription());
