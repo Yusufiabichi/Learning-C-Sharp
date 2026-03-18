@@ -18,11 +18,13 @@ namespace StringRep
 
             // TODO: use the ToString method on the Book class
             Book b1 = new Book("War and Peace", "Leo Tolstoy", 825);
+            Book b2 = new Book("My Freelance Journey", "Yusufia Bichi", 284);
             Console.WriteLine(b1.ToString());
             Console.WriteLine(b1);
 
             Console.WriteLine(b1.ToString('B'));
             Console.WriteLine(b1.ToString('F'));
+            Console.WriteLine(b2.ToString('D'));
         }
     }
 }

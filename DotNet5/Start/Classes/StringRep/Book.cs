@@ -34,6 +34,10 @@ namespace StringRep
             {
                 return $"Book: {Name} by {Author} is {PageCount} pages";
             }
+            if (format == 'D')
+            {
+                return $"Book: {Name} by {Author} has {PageCount} pages";
+            }
             return ToString();
         }
     }
